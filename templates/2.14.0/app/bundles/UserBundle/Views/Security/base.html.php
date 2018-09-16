@@ -43,7 +43,7 @@
         </div>
          <div class="row">
             <div class="col-lg-4 col-lg-offset-4 text-center text-muted">
-                &copy; <?php echo date('Y');?> {{company_name}}
+            &copy; <?php echo date('Y') ?> Yantra Consulting. All Rights Reserved. <a target="_blank" href="http://www.engag3d.com/terms-of-service">Terms of Service</a> | <a target="_blank" href="http://www.engag3d.com/privacy-policy">Privacy Policy</a> | <a target="_blank" href="http://www.engag3d.com/acknowledgements">Acknowledgements</a>.
             </div>
         </div>
     </div>
