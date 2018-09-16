@@ -41,7 +41,7 @@
             <footer id="app-footer">
                 <div class="container-fluid">
                     <div class="row">
-                        <div class="col-xs-6 text-muted">&copy; <?php echo date('Y') ?> Yantra Consulting. All Rights Reserved. <a target="_blank" href="http://www.engag3d.com/terms-of-service">Terms of Service</a> | <a target="_blank" href="http://www.engag3d.com/privacy-policy">Privacy Policy</a> | <a target="_blank" href="http://www.engag3d.com/acknowledgements">Acknowledgements</a>. </div>
+                        <div class="col-xs-6 text-muted">&copy; <?php echo date('Y') ?> Engag3d Pty Ltd. All Rights Reserved. <a target="_blank" href="http://www.engag3d.com/terms-of-service">Terms of Service</a> | <a target="_blank" href="http://www.engag3d.com/privacy-policy">Privacy Policy</a> | <a target="_blank" href="http://www.engag3d.com/acknowledgements">Acknowledgements</a>. </div>
                         <div class="col-xs-6 text-muted text-right small">v<?php
                             /** @var \Mautic\CoreBundle\Templating\Helper\VersionHelper $version */
                             $version = $view['version'];
